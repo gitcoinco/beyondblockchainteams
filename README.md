@@ -9,5 +9,5 @@ Gitcoin is a constellation of Ethereum-based smart contracts designed to Push Op
 
 <img src="https://raw.githubusercontent.com/gitcoinco/beyondblockchainteams/master/img.jpg" />
 
-#Beyond Blockchain Teams
+# Beyond Blockchain Teams
 Use this issue board to discuss hackathon ideas and find teams!
