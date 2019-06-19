@@ -11,3 +11,9 @@ Gitcoin is a constellation of Ethereum-based smart contracts designed to Push Op
 
 # Beyond Blockchain Teams
 Use this issue board to discuss hackathon ideas and find teams!
+
+
+# Beyond Blockchain Prizes (To Be Updated Regularly)
+ConsenSys Labs (Healthcare, Finance, Media): https://github.com/ConsenSys/Beyond-Blockchain-Relay/issues
+Gitcoin Community Prizes: TBD
+Ethereum Community Prizes: TBD 
