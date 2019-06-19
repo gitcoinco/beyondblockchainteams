@@ -14,6 +14,6 @@ Use this issue board to discuss hackathon ideas and find teams!
 
 
 # Beyond Blockchain Prizes (To Be Updated Regularly)
-ConsenSys Labs (Healthcare, Finance, Media): https://github.com/ConsenSys/Beyond-Blockchain-Relay/issues
-Gitcoin Community Prizes: TBD
-Ethereum Community Prizes: TBD 
+- ConsenSys Labs (Healthcare, Finance, Media): https://github.com/ConsenSys/Beyond-Blockchain-Relay/issues
+- Gitcoin Community Prizes: TBD
+- Ethereum Community Prizes: TBD 
