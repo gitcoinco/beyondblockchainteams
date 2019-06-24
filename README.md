@@ -22,6 +22,7 @@ Main Issue Board: https://gitcoin.co/hackathon/beyondblockchain
 - Gitcoin Community Prizes: [Kudos + Slack](https://github.com/gitcoinco/skunkworks/issues/94), [Kudos + Slack](https://github.com/gitcoinco/skunkworks/issues/94)
 - Raiden (Hardware, Software, Improvements): [View Prizes + Projects](https://github.com/raiden-network/hackathons/issues/)
 - Arweave Prizes:  [View Prizes + Projects](https://github.com/ArweaveTeam/Bounties/issues/)
+- Portis Prizes:  [View Prizes + Projects](https://github.com/portis-project/beyondblockchain2019-hackathon/issues/)
 - Ethereum Community Prizes: Coming soon :) 
 - Alethio Prizes: Coming soon :) 
 - PegaSys Prizes: Coming soon :)
