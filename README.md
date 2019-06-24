@@ -16,6 +16,12 @@ Use this issue board to discuss hackathon ideas and find teams!
 
 
 # Beyond Blockchain Prizes (To Be Updated Regularly)
-- ConsenSys Labs (Healthcare, Finance, Media): https://github.com/ConsenSys/Beyond-Blockchain-Relay/issues
-- Gitcoin Community Prizes: TBD
-- Ethereum Community Prizes: TBD 
+Main Issue Board: https://gitcoin.co/hackathon/beyondblockchain
+
+- ConsenSys Labs (Healthcare, Finance, Media): [View Prizes + Projects](https://github.com/ConsenSys/Beyond-Blockchain-Relay/issues)
+- Gitcoin Community Prizes: [Kudos + Slack](https://github.com/gitcoinco/skunkworks/issues/94), [Kudos + Slack](https://github.com/gitcoinco/skunkworks/issues/94)
+- Raiden (Hardware, Software, Improvements): [[View Prizes + Projects](https://github.com/raiden-network/hackathons/issues/)
+- Arweave Prizes:  [[View Prizes + Projects](https://github.com/ArweaveTeam/Bounties/issues/)
+- Ethereum Community Prizes: Coming soon :) 
+- Alethio Prizes: Coming soon :) 
+- PegaSys Prizes: Coming soon :)
