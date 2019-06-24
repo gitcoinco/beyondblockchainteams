@@ -20,8 +20,8 @@ Main Issue Board: https://gitcoin.co/hackathon/beyondblockchain
 
 - ConsenSys Labs (Healthcare, Finance, Media): [View Prizes + Projects](https://github.com/ConsenSys/Beyond-Blockchain-Relay/issues)
 - Gitcoin Community Prizes: [Kudos + Slack](https://github.com/gitcoinco/skunkworks/issues/94), [Kudos + Slack](https://github.com/gitcoinco/skunkworks/issues/94)
-- Raiden (Hardware, Software, Improvements): [[View Prizes + Projects](https://github.com/raiden-network/hackathons/issues/)
-- Arweave Prizes:  [[View Prizes + Projects](https://github.com/ArweaveTeam/Bounties/issues/)
+- Raiden (Hardware, Software, Improvements): [View Prizes + Projects](https://github.com/raiden-network/hackathons/issues/)
+- Arweave Prizes:  [View Prizes + Projects](https://github.com/ArweaveTeam/Bounties/issues/)
 - Ethereum Community Prizes: Coming soon :) 
 - Alethio Prizes: Coming soon :) 
 - PegaSys Prizes: Coming soon :)
