@@ -25,4 +25,4 @@ Main Issue Board: https://gitcoin.co/hackathon/beyondblockchain
 - Portis Prizes:  [View Prizes + Projects](https://github.com/portis-project/beyondblockchain2019-hackathon/issues/)
 - Ethereum Community Prizes: Coming soon :) 
 - Alethio Prizes: Coming soon :) 
-- PegaSys Prizes: Coming soon :)
+- PegaSys Prize: [View Prize + Projects](https://github.com/PegaSysEng/BountiedWork/issues/19)
